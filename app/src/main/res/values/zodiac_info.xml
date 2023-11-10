@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zodiac_name">
+        <item>鼠</item>
+        <item>牛</item>
+        <item>虎</item>
+        <item>兔</item>
+        <item>龙</item>
+        <item>蛇</item>
+        <item>马</item>
+        <item>羊</item>
+        <item>猴</item>
+        <item>鸡</item>
+        <item>狗</item>
+        <item>猪</item>
+    </string-array>
+    <string-array name="zodiac_desc">
+        <item>夜间十一点至次日凌晨一点，属子时，正是老鼠趁夜深人静，频繁活动之时，称“子鼠”。</item>
+        <item>凌晨一点至三点，属丑时。牛习惯夜间吃草，农家常在深夜起来挑灯喂牛，故称“丑牛”。</item>
+        <item>凌晨三点至五点，属寅时。此时昼伏夜行的老虎最凶猛，古人常会在此时听到虎啸声，故称“寅虎”。</item>
+        <item>清晨五点至七点，属卯时。天刚亮，兔子出窝，喜欢吃带有晨露的青草，故为“卯兔”。</item>
+        <item>早晨七点至九点，属辰时。此时一般容易起雾，传说龙喜腾云驾雾，又值旭日东升，蒸蒸日上，故称“辰龙”。</item>
+        <item>上午九点至十一时，属巳时。大雾散去，艳阳高照，蛇类出洞觅食，故作“巳蛇”。</item>
+        <item>中午十一点至一点，属午时。古时野马未被人类驯服，每当午时，四处奔跑嘶鸣，故称“午马”。</item>
+        <item>午后一点至三点，属未时。有的地方管此时为“羊出坡”，意思是放羊的好时候，故称“未羊”。</item>
+        <item>下午三点至五点，属申时。太阳偏西了，猴子喜在此时啼叫，故为“申猴”。</item>
+        <item>下午五点至七点，属酉时。太阳落山了，鸡在窝前打转，故称“酉鸡”。</item>
+        <item>傍晚七点至九点，属戌时。人劳碌一天，闩门准备休息了。狗卧门前守护，一有动静，就汪汪大叫，故为“戌狗”。</item>
+        <item>夜间九点至十一点，属亥时。夜深人静，能听见猪拱槽的声音，于是称作“亥猪”。</item>
+    </string-array>
+    <string-array name="zodiac_images">
+        <item>shu</item>
+        <item>niu</item>
+        <item>hu</item>
+        <item>tu</item>
+        <item>long1</item>
+        <item>she</item>
+        <item>ma</item>
+        <item>yang</item>
+        <item>hou</item>
+        <item>ji</item>
+        <item>gou</item>
+        <item>hjz</item>
+    </string-array>
+</resources>
